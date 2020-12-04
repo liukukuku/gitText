@@ -29,3 +29,5 @@ git branch -D 分支名 删除当前分支 不能删除当前所在的分支
 git branch 查看当前所有分支
 
 ssh-keygen -t rsa -C "l18625190495@163.com"   使用ssh-keygen生成私钥和公钥 并找到生成目录下的.ssh/id_rsa文件用记事本打开查看
+
+啦啦啦啦啦啦 更改成功
