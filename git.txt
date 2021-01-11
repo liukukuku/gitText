@@ -1,5 +1,5 @@
 
-		git 命令 你好 我来了
+		git 命令 你好 我来了 wo lai le lallalall
 git init 初始化git仓库
 
 git push -u origin '项目名称‘ 第一次将项目放入远程仓库
@@ -31,3 +31,8 @@ git branch 查看当前所有分支
 ssh-keygen -t rsa -C "l18625190495@163.com"   使用ssh-keygen生成私钥和公钥 并找到生成目录下的.ssh/id_rsa文件用记事本打开查看
 
 啦啦啦啦啦啦 更改成功
+我是gitTXT分支我是gitTXT分支
+我是gitTXT分支
+我是gitTXT分支
+Hhhhhhhh你永远都看不到你自己身上的黑 
+我是gitTXT分支
