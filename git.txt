@@ -1,5 +1,5 @@
 
-		git 命令
+		git 命令 你好 我来了
 git init 初始化git仓库
 
 git push -u origin '项目名称‘ 第一次将项目放入远程仓库
